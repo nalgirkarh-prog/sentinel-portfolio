@@ -1,0 +1,7 @@
+{
+    "field_of_work": "Your Field (e.g., Pharmacy / Software)",
+    "competitive_exam": "Target Exam (e.g., CAT / GMAT)",
+    "target_colleges": "Target Institutions (e.g., IIMs / Ivy Leagues)",
+    "ollama_model": "llama3",
+    "ollama_url": "http://localhost:11434/api/generate"
+}

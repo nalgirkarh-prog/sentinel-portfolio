@@ -1,0 +1,5 @@
+{
+    "Large-Cap": ["TATASTEEL.NS", "ITC.NS", "WIPRO.NS"],
+    "Mid-Cap": ["ZOMATO.NS", "IRFC.NS", "TATAMOTORS.NS"],
+    "Small-Cap": ["NHPC.NS", "SUZLON.NS", "HFCL.NS"]
+}
